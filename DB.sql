@@ -1,0 +1,5 @@
+CREATE TABLE users (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    quest TEXT NOT NULL,
+    answers TEXT NOT NULL
+);
